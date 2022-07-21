@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.Online-Book-bg{
+    width: 400px;
+    height: 640px;
+    background-color: black;
+    margin-left: 300px;
+}
+.Online-Book-bg h1{
+    padding: 20px;
+    padding-bottom: 0px;
+    font-size: 30px;
+    color: white;
+}
+.abdhul-kalam-card{
+    width: 360px;
+    height: 190px;
+    background-color: #e6f6ff;
+    margin:0px 25px;
+    border-radius: 10px;
+}
+.abdhul-kalam-card img{
+    width: 150px;
+    height: 190px;
+}
+.abdhul-kalam-card-details{
+    width: 140px;
+    margin: 20px 20px;
+    
+}
+.abdhul-kalam-card-details h3{
+    font-size: 18px;
+    font-weight: bold;
+    color: #183b56;
+}
+.abdhul-kalam-card-details h6{
+    font-weight: bold;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+.abdhul-kalam-card-details p{
+    font-size: 11px;
+    padding-top: 10px;
+    font-weight: bold;
+    color: #183b56;
+}
+.abdhul-kalam-card-details button{
+    width: 100px;
+    height: 40px;
+    background-color: #2693f1;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+}
+.Online-Book-bg h2{
+    font-size: 23px;
+    color: white;
+    padding:10px 20px;
+}
+
+.recommendations-card{
+    width: 360px;
+    height: 140px;
+    color: rgba(255, 255, 255, 0.836);
+    margin:10px 25px;
+    margin-top: 2px;
+    border-radius: 10px;
+}
+.recommendations-card img{
+    width: 100px;
+    height: 140px;
+}
+.recommendations-card-details{
+    width: 220px;
+    margin: 10px 20px;   
+}
+
+.recommendations-card-details h3{
+    font-size: 18px;
+    font-weight: bold;
+    color:rgba(255, 255, 255, 0.836);
+}
+
+.recommendations-card-details p{
+    font-size: 11px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.836);;
+}
+.recommendations-card-details button{
+    width: 100px;
+    height: 40px;
+    background-color: #2693f1;
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+}
